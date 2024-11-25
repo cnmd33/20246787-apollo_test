@@ -1,0 +1,3 @@
+/home/drp/likou130/build/CMakeFiles/rebuild_cache.dir
+/home/drp/likou130/build/CMakeFiles/edit_cache.dir
+/home/drp/likou130/build/CMakeFiles/SurroundedRegions.dir

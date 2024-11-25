@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/solution.h
+vector
+-
+
+/home/drp/likou130/src/main.cpp
+iostream
+-
+vector
+-
+solution.h
+/home/drp/likou130/src/solution.h
+
