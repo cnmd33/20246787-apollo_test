@@ -36,14 +36,14 @@ int main() {
     int m, n;
 
     std::cout << "示例:" << std::endl;
-    std::cout << "4 4 (行数 列数)" << std::endl;
+    std::cout << "（这个不用管就直接输入如左回车即可）4 4 (行数 列数)" << std::endl;
     std::cout << "x x x x" << std::endl;
     std::cout << "x 0 0 x" << std::endl;
     std::cout << "x x 0 x" << std::endl;
     std::cout << "x 0 x x" << std::endl;
     std::cout << "输入:board = [['x','x','x','x'],['x','0','0','x'],['x','x','0','x'],['x','0','x','x']]" << std::endl;
     std::cout << "输出:board = [['x','x','x','x'],['x','X','X','x'],['x','x','X','x'],['x','0','x','x']]" << std::endl;
-
+    
 
     std::cin >> m >> n;
 
